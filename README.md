@@ -44,5 +44,5 @@ Work Orders Created. Program Exiting
 Contributions are welcome. Please adhere to the provided coding styles and naming conventions.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Teseife/Work-Order-Generator/blob/main/LICENSE) file for details.
 
