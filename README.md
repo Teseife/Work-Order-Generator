@@ -33,11 +33,11 @@ The output and logs are written to:
 ## Example Output:
 Project 3 Work Order Generator
 
-Loading Employee Data
-Loading Ticket Data
-Creating Work Orders
-Writing Work Order Data to File
-Work Orders Created. Program Exiting
+* Loading Employee Data
+* Loading Ticket Data
+* Creating Work Orders
+* Writing Work Order Data to File
+* Work Orders Created. Program Exiting
 
 
 ## Contribution
