@@ -20,7 +20,7 @@ To run the Work Order Generator, follow these steps:
 - **Work Order Creation**: Generates work orders based on the available tickets and assigns them to the appropriate employees.
 - **Data Output**: Outputs the newly created work orders to a CSV file and logs each step.
 
-## File Structure
+## CSV File Structure
 The application expects the following CSV files in the project's working directory:
 - `employee_data.csv`
 - `tier1_ticket_data.csv`
@@ -29,6 +29,9 @@ The application expects the following CSV files in the project's working directo
 The output and logs are written to:
 - `workorder_data.csv`
 - `log.txt`
+  
+## UML Represnting File relaitons:
+![IMG_0092](https://github.com/Teseife/Work-Order-Generator/assets/92551215/84f286a2-8c85-479d-8816-c20ae2dfc53c)
 
 ## Example Output:
 Project 3 Work Order Generator
