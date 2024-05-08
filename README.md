@@ -21,7 +21,7 @@ To run the Work Order Generator, follow these steps:
 - **Data Output**: Outputs the newly created work orders to a CSV file and logs each step.
 
 ## CSV File Structure
-The application expects the following CSV files in the project's working directory:
+The application expects the following CSV files in the project's working directory you can find the files in the [CSV File](https://github.com/Teseife/Work-Order-Generator/tree/main/Java%20Files/CSV%20File) Folder:
 - `employee_data.csv`
 - `tier1_ticket_data.csv`
 - `tier2_ticket_data.csv`
