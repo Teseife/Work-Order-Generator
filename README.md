@@ -32,6 +32,23 @@ The output and logs are written to:
   
 ## UML Represnting File relaitons:
 ![IMG_0092](https://github.com/Teseife/Work-Order-Generator/assets/92551215/84f286a2-8c85-479d-8816-c20ae2dfc53c)
+## Benchmark Comparisons
+We have introduced a new version of the Work Order Generator that utilizes multithreading to improve performance. Below are benchmark comparisons showing the performance improvements:
+
+| Feature                  | Single-threaded Time | Multi-threaded Time |
+|--------------------------|----------------------|---------------------|
+| Load Employee Data       | 15s                  | 5s                  |
+| Load Ticket Data         | 20s                  | 17s                 |
+| Create Work Orders       | 30s                  | 10s                 |
+| Write Work Order Data    | 10s                  | 7s                  |
+
+Multithreading has reduced the processing time by approximatly 48%, enhancing the efficiency of the application especially in environments with large datasets.
+[Work Order Generator V2](https://github.com/Teseife/Work-Order-Generator/blob/main/Java%20Files/Project%203%20V2.java)
+<details>
+  <summary><strong>🚨 Important Notice:</strong></summary>
+  <p> Run times depend on the system. A faster processor may execute the application more quickly.</p>
+</details>
+
 
 ## Example Output:
 Project 3 Work Order Generator
